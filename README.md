@@ -2,7 +2,7 @@
 
 
 
-### STERLING PRODUCTS LEAGUE API 
+## STERLING PRODUCTS LEAGUE API 
 
 
 ### Heroku app: 
@@ -24,11 +24,11 @@ https://documenter.getpostman.com/view/7988284/SVYwMHMF?version=latest#48374473-
 - Swagger 
 - Postman
 
-### Prerequisites
+## Prerequisites
 
 Node Js and git needs to be installed on your system
 
-### Installation
+## Installation
 
 ## clone repo
 git clone https://github.com/dchima/backend-developer-test.git
