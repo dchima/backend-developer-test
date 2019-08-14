@@ -30,15 +30,15 @@ Node Js and git needs to be installed on your system
 
 ### Installation
 
-**clone repo**
+## clone repo
 git clone https://github.com/dchima/backend-developer-test.git
 
-**Navigate to file and run**
-cd WayFarer
+## Navigate to file and run
+cd backend-developer-test.git
 npm install
 npm start
 
-**Test the app**
+## Test the app
 npm run build-test
 
 
